@@ -2,7 +2,7 @@
 
 ## UpdateFieldValue()
 
-This code block is an example of how you can replace values in a field.
+This is an example of how you can replace values in a field using the code block feature in field calculator.
 
 Before:
 
