@@ -6,12 +6,13 @@ This code block is an example of how you can replace values in a field.
 
 Before:
 
-![Before Image](images/before_ufv.PNG)
+<img src="images/before_ufv.PNG" width="400">
 
 Calculate Field Dialogue:
-<img src="images/fieldcalcwindow_ufv.PNG" height="100">
-![Field Calculator Image](images/fieldcalcwindow_ufv.PNG)
+
+<img src="images/fieldcalcwindow_ufv.PNG" width="400">
+
 
 After:
 
-![After Image](images/after_ufv.PNG)
+<img src="images/after_ufv.PNG" width="400">
