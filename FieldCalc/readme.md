@@ -10,7 +10,7 @@ Before:
 
 Calculate Field Dialogue:
 
-![Field Calculator Image](images/fieldcalcwindow_ufv.PNG)
+![Field Calculator Image](images/fieldcalcwindow_ufv.PNG | height=100)
 
 After:
 
