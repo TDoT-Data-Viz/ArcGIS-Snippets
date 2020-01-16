@@ -9,8 +9,8 @@ Before:
 ![Before Image](images/before_ufv.PNG)
 
 Calculate Field Dialogue:
-
-![Field Calculator Image](images/fieldcalcwindow_ufv.PNG =100)
+<img src="images/fieldcalcwindow_ufv.PNG" height="100">
+![Field Calculator Image](images/fieldcalcwindow_ufv.PNG)
 
 After:
 
